@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<h3 align="center">A passionate frontend and backend developer from El Salvador</h3>
+<h3 align="left">A passionate frontend and backend developer from El Salvador</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
