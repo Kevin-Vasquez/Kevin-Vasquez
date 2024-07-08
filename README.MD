@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with **general interesting projects**
 
+- 👨‍💻 All of my projects are available at 
+
 <h3 align="left">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 <p align="left">
 
