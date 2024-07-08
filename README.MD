@@ -12,8 +12,15 @@
 
 - 🤝 I’m looking for help with **general interesting projects**
 
-<h3 align="left">Connect with me:</h3> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h3 align="left">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 <p align="left">
+
+<li>
+<a href="kevin1995vasquezz@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
