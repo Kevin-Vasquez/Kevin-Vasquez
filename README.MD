@@ -15,11 +15,9 @@
 <h3 align="left">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3> 
 <p align="left">
 
-<li>
 <a href="mailto:kevin1995vasquezz@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 
 </p>
 
