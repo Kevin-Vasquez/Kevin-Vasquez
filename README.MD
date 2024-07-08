@@ -2,8 +2,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 <h3 align="center">A passionate frontend and backend developer from El Salvador</h3>
 
 - 🔭 I’m currently working on **personal projects**
