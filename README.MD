@@ -25,6 +25,10 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://kevin-vasquez.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-blue" t=mail style="margin-bottom: 5px;" />
+</a>
+
 </p>
 
 <h3 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h3>
